@@ -1,5 +1,13 @@
 # React Profesional App
 
+## 🧹 Limpieza de Boilerplate
+
+- Borré el contenido de `src/App.css` e `src/index.css`.
+- Dejé `src/App.jsx` para que solo retorne:
+  - `<h1>Base de App Inicializada</h1>`
+- Eliminé archivos innecesarios como `assets/react.svg` (si existía en el proyecto).
+
+
 Aplicación creada con **Vite + React** para desarrollo profesional y despliegue en Vercel.
 
 ## 🚀 Instalación y ejecución local
